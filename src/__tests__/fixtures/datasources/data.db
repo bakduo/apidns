@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "Instance": 1,
+    "Host": 1,
+    "Dns": 213
+  },
+  "models": {
+    "Instance": {},
+    "Host": {},
+    "Dns": {}
+  }
+}
