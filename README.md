@@ -1,6 +1,5 @@
 version API DNS service for SRV record for loadbalancing [Alpha]
 ====================================================
-![Alpha version](img/kubernetes-ha1-1024x419.png "Alpha Version")
 
 It's alpha version, based in the idea of https://github.com/bpaquet/dnsmasq-rest-api, but now base un NodeJS and SRV record for HAproxy services and loadbalancing.
 
